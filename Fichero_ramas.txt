@@ -1,4 +1,5 @@
 
+<<<<<<< HEAD
 ___________________________________________________
 
 Estoy modificando el fichero en la Rama Ejercicio_3
@@ -6,3 +7,10 @@ Estoy modificando el fichero en la Rama Ejercicio_3
 ___________________________________________________
 
 
+=======
+_________________________________________
+
+Estoy editando el fichero en la rama main
+
+_________________________________________
+>>>>>>> main
